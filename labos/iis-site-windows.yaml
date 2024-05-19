@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: iis-site-windows
+  labels:
+    app: iis-site-windows
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: iis-site-windows
+  template:
+    metadata:
+      labels:
+        app: iis-site-windows
+    spec:
+      nodeSelector:
+        kubernetes.io/os: windows
+      containers:
+      - name: iis-site-windows
+        image: emptier1359/iis-site-windows
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: iis-site-windows-service
+spec:
+  selector:
+    app: iis-site-windows  
+  ports:
+    - port: 8000
+      targetPort: 80
+  type: LoadBalancer

@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: iis-site-windows
+  labels:
+    app: iis-site-windows
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: iis-site-windows
+  template:
+    metadata:
+      labels:
+        app: iis-site-windows
+    spec:
+      nodeSelector:
+        kubernetes.io/os: windows
+      containers:
+      - name: iis-site-windows
+        image: emptier1359/iis-site-windows:latest
+        ports:
+        - containerPort: 80
+---
+#configure a nodeport
+apiVersion: v1
+kind: Service
+metadata:
+  name: iis-site-windows-service
+spec:
+  selector:
+    app: iis-site-windows  
+  ports:
+    - port: 8080
+      targetPort: 80
+  type: NodePort
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: iis-site-windows-ingress # Adjust the name if needed
+spec:
+  rules:
+  - http:
+      paths:
+      - path: /* 
+        pathType: ImplementationSpecific
+        backend:
+          service:
+            name: iis-site-windows-service
+            port:
+              number: 8080
