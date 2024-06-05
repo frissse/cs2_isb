@@ -4,7 +4,7 @@ try {
     $tempovertredingen | ForEach-Object {$overtredingen += [pscustomobject]@{aantal_overtredingen_roodlicht=[int]$_.aantal_overtredingen_roodlicht;aantal_passanten=[int]$_.aantal_passanten;datum_vaststelling=$_.datum_vaststelling;datum_vaststelling_jaar=[int]$_.datum_vaststelling_jaar;datum_vaststelling_maand=[int]$_.datum_vaststelling_maand;id=[int]$_.id;opnameplaats_straat=$_.opnameplaats_straat }}
 }
 catch {
-    Write-Output "Somethgin went wrong when import the CSV file"
+    Write-Output "Something went wrong when import the CSV file"
 }
 
 function More-Overtredingen($overtredingen, $aantal) {

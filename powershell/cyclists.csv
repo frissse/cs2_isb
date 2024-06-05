@@ -1,0 +1,786 @@
+Name,Height,Weight,Hometown,Team,Points,Position,Age,Nationality
+Greg Van Avermaet,1.81,74,Lokeren,AG2R Citroën Team,476,115,37,BE
+Oliver Naesen,1.84,74,Oostende,AG2R Citroën Team,339,190,32,BE
+Benoît Cosnefroy,1.79,65,Cherbourg-en-Cotentin,AG2R Citroën Team,949,38,27,FR
+Ben O'Connor,1.88,67,Subiaco,AG2R Citroën Team,958,36,27,AU
+Marc Sarreau,1.82,76,Vierzon,AG2R Citroën Team,336,192,29,FR
+Andrea Vendrame,1.68,60,Conegliano,AG2R Citroën Team,433,136,28,IT
+Mikaël Cherel,1.86,65,Saint-Hilaire-du-Harcouët,AG2R Citroën Team,99,490,36,FR
+Michael Schär,1.98,78,Geuensee,AG2R Citroën Team,60,670,36,CH
+Clément Venturini,1.65,60,Villeurbanne,AG2R Citroën Team,273,233,29,FR
+Aurélien Paret-Peintre,1.84,64,Annemasse,AG2R Citroën Team,253,250,27,FR
+Dorian Godon,1.9,73,Vitry-sur-Seine,AG2R Citroën Team,244,258,26,FR
+Franck Bonnamour,1.8,70,Lannion,AG2R Citroën Team,201,289,27,FR
+Geoffrey Bouchard,1.78,63,Dijon,AG2R Citroën Team,294,218,30,FR
+Larry Warbasse,1.83,67,Traverse City,AG2R Citroën Team,25,1074,32,US
+Nans Peters,1.77,71,Grenoble,AG2R Citroën Team,215,276,28,FR
+Stan Dewulf,1.76,74,Stavele,AG2R Citroën Team,162,346,25,BE
+Damien Touzé,1.74,69,Iville,AG2R Citroën Team,108,451,26,FR
+Lawrence Naesen,1.9,72,Berlare,AG2R Citroën Team,44,809,30,BE
+Felix Gall,1.78,66,Nußdorf-Debant,AG2R Citroën Team,283,228,25,AT
+Jaakko Hänninen,1.77,60,Ruokolahti,AG2R Citroën Team,88,545,25,FI
+Clément Berthet,1.84,68,Pierre Bénite,AG2R Citroën Team,182,318,25,FR
+Nicolas Prodhomme,1.74,62,L'Aigle,AG2R Citroën Team,54,721,26,FR
+Paul Lapeira,1.76,64,Fougères,AG2R Citroën Team,65,634,22,FR
+Alex Baudin,1.83,66,Albertville,AG2R Citroën Team,99,493,21,FR
+Valentin Retailleau,1.81,64,Limoges,AG2R Citroën Team,47,776,22,FR
+Bastien Tronchon,1.85,72,Chambéry,AG2R Citroën Team,53,732,20,FR
+Valentin Paret-Peintre,1.76,52,Annemasse,AG2R Citroën Team,36,900,22,FR
+Antoine Raugel,1.85,70,Strasbourg,AG2R Citroën Team,46,783,24,FR
+Pierre Gautherat,1.77,70,Colmar,AG2R Citroën Team,45,801,20,FR
+Mathieu Van Der Poel,1.84,75,Kapellen,Alpecin-Deceuninck,1255.5,16,28,NL
+Jasper Philipsen,1.76,75,Ham,Alpecin-Deceuninck,1350,10,25,BE
+Søren Kragh Andersen,1.78,73,Strib,Alpecin-Deceuninck,380,159,28,DK
+Kristian Sbaragli,1.75,74,Empoli,Alpecin-Deceuninck,90,536,32,IT
+Jakub Mareczko,1.69,67,Jarosław,Alpecin-Deceuninck,275,232,28,IT
+Silvan Dillier,1.83,75,Aarau,Alpecin-Deceuninck,76,588,32,CH
+Xandro Meurisse,1.81,71,Kortrijk,Alpecin-Deceuninck,262,243,31,BE
+Dries De Bondt,1.85,73,Bornem,Alpecin-Deceuninck,384,158,31,BE
+Ramon Sinkeldam,1.93,77,Zaandam,Alpecin-Deceuninck,88,543,34,NL
+Gianni Vermeersch,1.73,65,Roeselare,Alpecin-Deceuninck,321,199,30,BE
+Quinten Hermans,1.74,62,Antwerp,Alpecin-Deceuninck,668,69,27,BE
+Oscar Riesebeek,1.91,78,Ede,Alpecin-Deceuninck,213,277,30,NL
+Alexander Krieger,1.84,71,Stuttgart,Alpecin-Deceuninck,50,744,31,DE
+Robert Stannard,1.79,74,Sydney,Alpecin-Deceuninck,328,196,24,AU
+Michael Gogl,1.86,71,Gmunden,Alpecin-Deceuninck,51,738,29,AT
+Jonas Rickaert,1.87,88,Sint-Eloois-Vijve,Alpecin-Deceuninck,5,1833,29,BE
+Stefano Oldani,1.78,65,Milan,Alpecin-Deceuninck,387,154,25,IT
+Jimmy Janssens,1.83,74,Herentals,Alpecin-Deceuninck,95,509,33,BE
+Nicola Conci,1.84,68,Trente,Alpecin-Deceuninck,348,181,26,IT
+Lionel Taminiaux,1.73,74,Ottignies-Louvain-la-Neuve,Alpecin-Deceuninck,209,280,26,BE
+Edward Planckaert,1.78,71,Kortrijk,Alpecin-Deceuninck,40,854,28,BE
+Tobias Bayer,1.87,70,Ried im Innkreis,Alpecin-Deceuninck,139,381,23,AT
+Senne Leysen,1.9,78,Tielen,Alpecin-Deceuninck,40,855,26,BE
+Robbe Ghys,1.82,72,Hasselt,Alpecin-Deceuninck,101,484,26,BE
+Fabio Van Den Bossche,1.76,63,Ghent,Alpecin-Deceuninck,27,1052,22,BE
+Jensen Plowright,1.76,80,Melbourne,Alpecin-Deceuninck,39,871,22,AU
+Maurice Ballerstedt,1.85,76,Berlin,Alpecin-Deceuninck,39,872,22,DE
+Jason Osborne,1.78,70,Mainz,Alpecin-Deceuninck,55,713,28,DE
+Samuel Gaze,1.89,80,Tokoroa,Alpecin-Deceuninck,20,1178,27,NZ
+Mark Cavendish,1.75,70,Douglas,Astana Qazaqstan Team,491.29,110,37,GB
+León Sánchez Luis,1.86,73,Mula,Astana Qazaqstan Team,360,173,39,ES
+Alexey Lutsenko,1.74,74,Petropavl,Astana Qazaqstan Team,477.29,113,30,KZ
+Fabio Felline,1.75,68,Turin,Astana Qazaqstan Team,110,443,32,IT
+Gianni Moscon,1.82,70,Trento,Astana Qazaqstan Team,54,720,28,IT
+David De La Cruz,1.82,66,Sabadell,Astana Qazaqstan Team,107,456,33,ES
+Andrey Zeits,1.89,73,Oblast Pavlodar,Astana Qazaqstan Team,179,322,36,KZ
+Joe Dombrowski,1.85,68,Marshall,Astana Qazaqstan Team,109,447,31,US
+Cees Bol,1.94,83,Zaandam,Astana Qazaqstan Team,121.29,420,27,NL
+Manuele Boaro,1.73,64,Bassano del Grappa,Astana Qazaqstan Team,45,790,35,IT
+Dmitriy Gruzdev,1.85,78,Astana,Astana Qazaqstan Team,50.28999999,743,36,KZ
+Simone Velasco,1.7,59,Bologna,Astana Qazaqstan Team,220,274,27,IT
+Yevgeniy Gidich,1.79,69,Kökşetaw,Astana Qazaqstan Team,63,645,26,KZ
+Martin Laas,1.76,74,Tartu,Astana Qazaqstan Team,56,702,29,EE
+Samuele Battistella,1.8,67,Castelfranco Veneto,Astana Qazaqstan Team,362,171,24,IT
+Alexandr Riabushenko,1.78,61,Minsk,Astana Qazaqstan Team,46,781,27,BY
+Davide Martinelli,1.86,71,Brescia,Astana Qazaqstan Team,30.28999999,967,29,IT
+Vadim Pronskiy,1.73,58,Astana,Astana Qazaqstan Team,130,402,24,KZ
+Yevgeniy Fedorov,1.93,80,Aktobe,Astana Qazaqstan Team,163,344,23,KZ
+Leonardo Basso,1.77,63,Castelfranco Veneto,Astana Qazaqstan Team,40,853,29,IT
+Christian Scaroni,1.75,63,Brescia,Astana Qazaqstan Team,152,363,25,IT
+Harold Tejada,1.8,63,Pitalito,Astana Qazaqstan Team,131.29,397,25,CO
+Antonio Nibali,1.8,65,Messina,Astana Qazaqstan Team,45,793,30,IT
+Yuriy Natarov,1.86,68,Talgar,Astana Qazaqstan Team,47,772,26,KZ
+Igor Chzhan,1.85,71,Taldykorgan,Astana Qazaqstan Team,100,488,23,KZ
+Javier Romo,1.84,70,Villafranca de los Caballeros,Astana Qazaqstan Team,26.28999999,1059,24,ES
+Gleb Brussenskiy,1.78,64,Kokshetau,Astana Qazaqstan Team,82,570,22,KZ
+Gianmarco Garofoli,1.8,70,Ancona,Astana Qazaqstan Team,1,2302,20,IT
+Nurbergen Nurlykhassym,1.8,65,Astana,Astana Qazaqstan Team,4,1951,22,KZ
+Mikel Landa,1.73,60,Murgia,Bahrain - Victorious,998,34,33,ES
+Wout Poels,1.83,66,Venray,Bahrain - Victorious,241.86,260,35,NL
+Damiano Caruso,1.79,67,Ragusa,Bahrain - Victorious,680,67,35,IT
+Pello Bilbao,1.74,60,Guernica,Bahrain - Victorious,1669.86,5,33,ES
+Heinrich Haussler,1.81,74,Inverell,Bahrain - Victorious,92,521,39,AU
+Matej Mohorič,1.85,72,Kranj,Bahrain - Victorious,1014,32,28,SI
+Andrea Pasqualon,1.74,68,Bassano del Grappa,Bahrain - Victorious,418,141,35,IT
+Jack Haig,1.9,67,Southport,Bahrain - Victorious,330,194,29,AU
+Yukiya Arashiro,1.7,64,Ishigaki,Bahrain - Victorious,92,522,38,JP
+Phil Bauhaus,1.84,71,Bocholt,Bahrain - Victorious,571.86,84,28,DE
+Hermann Pernsteiner,1.68,55,Oberwart,Bahrain - Victorious,195,297,32,AT
+Gino Mäder,1.81,61,Flawil,Bahrain - Victorious,316,203,26,CH
+Jasha Sütterlin,1.84,78,Freiburg im Breisgau,Bahrain - Victorious,89,541,30,DE
+Santiago Buitrago,1.74,59,Bogotá,Bahrain - Victorious,589,82,23,CO
+Kamil Gradek,1.94,81,Koziegłowy,Bahrain - Victorious,47,766,32,PL
+Fred Wright,1.84,75,London,Bahrain - Victorious,536,92,23,GB
+Dušan Rajović,1.83,74,Kraljevo,Bahrain - Victorious,59,683,25,RS
+Jonathan Milan,1.94,84,Tolmezzo,Bahrain - Victorious,230,268,22,IT
+Filip Maciejuk,1.9,78,Pulawy,Bahrain - Victorious,36,899,23,PL
+Edoardo Zambanini,1.8,62,Riva del Garda,Bahrain - Victorious,180,321,21,IT
+Matevž Govekar,1.8,73,Ljubljana,Bahrain - Victorious,113.86,438,22,SI
+Johan Price-Pejtersen,1.97,77,Frederiksberg,Bahrain - Victorious,18.86000001,1202,23,DK
+Cameron Scott,1.83,80,Wagga Wagga,Bahrain - Victorious,30,987,25,AU
+Sergio Tu,1.78,63,Taipei,Bahrain - Victorious,6,1788,26,TW
+Sam Bennett,1.78,73,Wervik,BORA - hansgrohe,816.57,51,32,IE
+Bob Jungels,1.89,70,Rollingen,BORA - hansgrohe,559,87,30,LU
+Danny Van Poppel,1.84,82,Moergestel,BORA - hansgrohe,730.57,59,29,NL
+Aleksandr Vlasov,1.86,68,Vyborg,BORA - hansgrohe,1411,8,26,RU
+Patrick Konrad,1.74,64,Mödling,BORA - hansgrohe,425,137,31,AT
+Maximilian Schachmann,1.83,70,Berlin,BORA - hansgrohe,244,257,29,DE
+Emanuel Buchmann,1.79,59,Ravensburg,BORA - hansgrohe,403.57,147,30,DE
+Sergio Higuita,1.66,57,Medellín,BORA - hansgrohe,1273,15,25,CO
+Jai Hindley,1.75,60,Perth,BORA - hansgrohe,1207,19,26,AU
+Nils Politt,1.92,80,Cologne,BORA - hansgrohe,360,174,29,DE
+Marco Haller,1.78,72,Sankt Veit an der Glan,BORA - hansgrohe,360,172,31,AT
+Lennard Kämna,1.81,65,Wedel,BORA - hansgrohe,348,180,26,DE
+Jordi Meeus,1.9,80,Lommel,BORA - hansgrohe,564,86,24,BE
+Cesare Benedetti,1.7,63,Rovereto,BORA - hansgrohe,66,630,35,PL
+Jonas Koch,1.87,75,Schwäbisch Hall,BORA - hansgrohe,101,483,29,DE
+Giovanni Aleotti,1.8,67,Mirandola,BORA - hansgrohe,316,204,23,IT
+Nico Denz,1.83,71,Waldshut-Tiengen,BORA - hansgrohe,90,535,29,DE
+Ryan Mullen,1.89,77,Birkenhead,BORA - hansgrohe,101.57,479,28,IE
+Matteo Fabbro,1.67,52,Udine,BORA - hansgrohe,64,640,27,IT
+Ide Schelling,1.82,66,The Hague,BORA - hansgrohe,114,437,25,NL
+Shane Archbold,1.82,79,Timaru,BORA - hansgrohe,15.56999999,1288,34,NZ
+Matthew Walls,1.77,72,Manchester,BORA - hansgrohe,20,1174,24,GB
+Ben Zwiehoff,1.82,61,Essen,BORA - hansgrohe,188.57,308,29,DE
+Patrick Gamper,1.94,86,Wien,BORA - hansgrohe,59.56999999,679,26,AT
+Frederik Wandahl,1.78,61,Stockholm,BORA - hansgrohe,142,376,21,DK
+Victor Koretzky,1.8,69,Béziers,BORA - hansgrohe,64,643,28,FR
+Anton Palzer,1.78,62,Berchtesgaden,BORA - hansgrohe,18,1232,29,DE
+Luis-Joe Lührs,1.79,66,München,BORA - hansgrohe,5.829999983,1818,20,DE
+Ion Izagirre,1.73,60,Ormaiztegi,Cofidis,519,97,34,ES
+Bryan Coquard,1.71,59,Saint-Nazaire,Cofidis,603,77,30,FR
+Guillaume Martin,1.73,55,Paris,Cofidis,856,49,29,FR
+Jesús Herrada,1.83,70,Mota del Cuervo,Cofidis,723,62,32,ES
+Simon Geschke,1.71,64,Berlin,,357,176,36,DE
+Davide Cimolai,1.82,70,Pordenone,Cofidis,97,500,33,IT
+Max Walscheid,1.99,90,Neuwied,Cofidis,496,107,29,DE
+Simone Consonni,1.65,60,Ponte San Pietro,Cofidis,600,79,28,IT
+José Herrada,1.75,65,Mota del Cuervo,,45,789,37,ES
+Jelle Wallays,1.85,77,Roeselare,Cofidis,13,1390,33,BE
+Rubén Fernández,1.77,60,Murcia,Cofidis,136,386,32,ES
+Pierre-Luc Périchon,1.82,69,Bourg-en-Bresse,Cofidis,89,540,36,FR
+Benjamin Thomas,1.79,68,Lavaur,Cofidis,602,78,27,FR
+Piet Allegaert,1.81,70,Moorslede,Cofidis,504,103,28,BE
+Jonathan Lastra,1.72,64,Bilbao,Cofidis,271,235,29,ES
+Anthony Perez,1.9,70,Toulouse,Cofidis,341,189,31,FR
+Axel Zingle,1.73,67,Mulhouse,Cofidis,732,58,24,FR
+Wesley Kreder,1.83,71,Leiden,Cofidis,50,745,32,NL
+Christophe Noppe,1.76,73,Oudenaarde,Cofidis,99,491,28,BE
+Victor Lafay,1.77,65,Lyon,Cofidis,325,198,27,FR
+Rémy Rochas,1.64,51,La Motte-Servolex,Cofidis,163,341,26,FR
+François Bidard,1.8,65,Lonlay-l'Abbaye,Cofidis,16,1270,30,FR
+Alexis Renard,1.86,75,Saint-Brieuc,Cofidis,57,696,23,FR
+Alexandre Delettre,1.7,62,Gonesse,Cofidis,47,774,25,FR
+Eddy Finé,1.8,70,Herbeys,Cofidis,83,568,25,FR
+Andre Carvalho,1.81,66,Vila Nova de Famalicão,Cofidis,30,968,25,PT
+Thomas Champion,1.93,70,Saint-Sébastien-sur-Loire,Cofidis,35,914,23,FR
+Axel Mariault,1.69,58,Liffré,Cofidis,69,624,24,FR
+Hugo Toumire,1.8,69,Rouen,Cofidis,17,1256,21,FR
+Rigoberto Urán,1.73,63,Urrao,EF Education-EasyPost,612,75,36,CO
+Richard Carapaz,1.7,62,El Carmelo,EF Education-EasyPost,1189,20,29,EC
+Esteban Chaves,1.64,55,Bogota,EF Education-EasyPost,457,120,33,CO
+Magnus Cort,1.83,68,Rønne,EF Education-EasyPost,568,85,30,DK
+Jens Keukeleire,1.85,69,Brugge,EF Education-EasyPost,58,688,34,BE
+Hugh Carthy,1.93,69,Preston,EF Education-EasyPost,500,104,28,GB
+Alberto Bettiol,1.8,69,Poggibonsi,EF Education-EasyPost,557,89,29,IT
+Andrey Amador,1.81,73,San José,EF Education-EasyPost,45.28999996,786,36,CR
+Neilson Powless,1.83,67,Eglin,EF Education-EasyPost,1101,25,26,US
+Merhawi Kudus,1.73,58,Asmara,EF Education-EasyPost,93,514,29,ER
+Christian Eiking Odd,1.82,75,Stord,EF Education-EasyPost,162,345,28,NO
+Frølich Honoré Mikkel,1.85,68,Fredericia,EF Education-EasyPost,285,225,26,DK
+Owain Doull,1.81,71,Cardiff,EF Education-EasyPost,97,497,29,GB
+Mark Padun,1.82,67,Donetsk,EF Education-EasyPost,102,476,26,UA
+Stefan Bissegger,1.78,78,Weinfelden,EF Education-EasyPost,228.6700001,269,24,CH
+Łukasz Wiśniowski,1.91,78,Ciechanów,EF Education-EasyPost,34.28999996,920,31,PL
+Klever Caicedo Jonathan,1.64,62,Santa Martha de Cuba,EF Education-EasyPost,93,515,29,EC
+Stefan De Bod,1.82,66,Worcester,EF Education-EasyPost,247.29,253,26,ZA
+Marijn Van Den Berg,1.83,73,De Meern,EF Education-EasyPost,304.29,208,23,NL
+James Shaw,1.79,63,Nottingham,EF Education-EasyPost,146,372,26,GB
+Tom Scully,1.88,85,Invercargill,EF Education-EasyPost,30,971,33,NZ
+Andrea Piccolo,1.82,64,Magenta,EF Education-EasyPost,439,132,21,IT
+Julius Van Den Berg,1.89,78,Purmerend,EF Education-EasyPost,95,510,26,NL
+Alexander Cepeda Jefferson,1.64,56,El Playón de San Francisco,EF Education-EasyPost,177,323,24,EC
+Jonas Rutsch,1.97,82,Erbach im Odenwald,EF Education-EasyPost,114,436,25,DE
+Simon Carr,1.82,63,Hereford,EF Education-EasyPost,101.29,480,24,GB
+Sean Quinn,1.86,67,Los Angeles,EF Education-EasyPost,158,353,22,US
+Ben Healy,1.75,65,Kingswinford,EF Education-EasyPost,128,406,22,IE
+Andrés Camargo Diego,1.76,65,Tuta,EF Education-EasyPost,39.28999996,866,24,CO
+Arnaud Démare,1.81,76,Beauvais,Groupama - FDJ,1336,11,31,FR
+Thibaut Pinot,1.8,63,Lure,,762,56,32,FR
+Stefan Küng,1.93,83,Wil,Groupama - FDJ,1335.67,12,29,CH
+David Gaudu,1.72,53,Landivisiau,Groupama - FDJ,904,43,26,FR
+Matthieu Ladagnous,1.82,73,Pau,,40,849,38,FR
+Valentin Madouas,1.79,71,Brest,Groupama - FDJ,1086,27,26,FR
+Rudy Molard,1.78,62,Gleizé,Groupama - FDJ,462,119,33,FR
+Ignatas Konovalovas,1.9,74,Panevėžys,Groupama - FDJ,47,769,37,LT
+Quentin Pacher,1.79,62,Libourne,Groupama - FDJ,373,166,31,FR
+Michael Storer,1.74,63,Perth,Groupama - FDJ,345,184,26,AU
+Bram Welten,1.88,81,Tilburg,Groupama - FDJ,249,252,25,NL
+Olivier Le Gac,1.8,70,Brest,Groupama - FDJ,130,400,29,FR
+Jake Stewart,1.79,66,Coventry,Groupama - FDJ,397,149,23,GB
+Fabian Lienhard,1.83,73,Steinmaur,Groupama - FDJ,107,455,29,CH
+Kevin Geniets,1.93,73,Esch-sur-Alzette,Groupama - FDJ,266,241,26,LU
+Bruno Armirail,1.9,74,Bagnères-de-Bigorre,Groupama - FDJ,210,279,28,FR
+Miles Scotson,1.91,76,Adelaide,Groupama - FDJ,67,627,29,AU
+Paul Penhoët,1.73,64,Clamart,Groupama - FDJ,189,307,21,FR
+Romain Grégoire,1.76,64,Besançon,Groupama - FDJ,236.33,264,20,FR
+Lewis Askey,1.87,75,Cannock,Groupama - FDJ,158,354,21,GB
+Laurence Pithie,1.85,74,Christchurch,Groupama - FDJ,39.66000006,865,20,NZ
+Reuben Thompson,1.83,63,Queenstown,Groupama - FDJ,107.33,453,22,NZ
+Samuel Watson,1.86,68,Leeds,Groupama - FDJ,129.33,403,21,GB
+Lenny Martinez,1.68,52,Cannes,Groupama - FDJ,136.33,385,19,FR
+Lars Van Den Berg,1.85,72,De Meern,Groupama - FDJ,10,1507,24,NL
+Clément Davy,1.83,73,Fougères,Groupama - FDJ,44,810,24,FR
+Enzo Paleni,1.8,65,Aix-en-Provence,Groupama - FDJ,57.33000001,693,20,FR
+Lorenzo Germani,1.79,62,Sora,Groupama - FDJ,35.33000001,904,21,IT
+Elia Viviani,1.78,67,Isola della Scala,INEOS Grenadiers,210.5699999,278,34,IT
+Michał Kwiatkowski,1.76,68,Chełmża,INEOS Grenadiers,290,222,32,PL
+Geraint Thomas,1.83,71,Cardiff,INEOS Grenadiers,990,35,36,GB
+Egan Bernal,1.75,60,Bogotá,INEOS Grenadiers,7,1695,26,CO
+Ben Swift,1.79,69,Rotherham,INEOS Grenadiers,124.5699999,413,35,GB
+Jonathan Castroviejo,1.71,62,Getxo,INEOS Grenadiers,121,421,35,ES
+Felipe Martínez Daniel,1.72,63,Soacha,INEOS Grenadiers,1321,13,26,CO
+Tao Geoghegan Hart,1.83,65,London,INEOS Grenadiers,532,93,27,GB
+Filippo Ganna,1.93,83,Verbania,INEOS Grenadiers,663.3299999,70,26,IT
+Pavel Sivakov,1.88,70,San Donà di Piave,INEOS Grenadiers,614,74,25,FR
+Ethan Hayter,1.8,69,London,INEOS Grenadiers,905,42,24,GB
+Thomas Pidcock,1.7,58,Leeds,INEOS Grenadiers,1092,26,23,GB
+Luke Rowe,1.85,72,Cardiff,INEOS Grenadiers,60,669,32,GB
+Omar Fraile,1.84,72,Santurtzi,INEOS Grenadiers,164,337,32,ES
+Carlos Rodríguez,1.83,67,Almuñécar,INEOS Grenadiers,892,45,22,ES
+Jhonatan Narváez,1.74,65,Playón de San Francisco,INEOS Grenadiers,300,214,26,EC
+Thymen Arensman,1.92,68,Deil,INEOS Grenadiers,1040,30,23,NL
+Laurens De Plus,1.89,67,Aalst,INEOS Grenadiers,57,695,27,BE
+Salvatore Puccio,1.82,68,Menfi,INEOS Grenadiers,35,909,33,IT
+Connor Swift,1.9,75,Thorne,INEOS Grenadiers,187,311,27,GB
+Magnus Sheffield,1.83,74,Pittsford,INEOS Grenadiers,702,63,20,US
+Cameron Wurf,1.71,71,Sandy Bay,INEOS Grenadiers,12.56999993,1408,39,AU
+Ben Tulett,1.69,56,Sevenoaks,INEOS Grenadiers,391.5699999,151,21,GB
+Luke Plapp,1.81,72,Melbourne,INEOS Grenadiers,515.2399999,99,22,AU
+Ben Turner,1.94,74,Doncaster,INEOS Grenadiers,453,124,23,GB
+Smith Rivera Brandon,1.7,60,Zipaquirá,INEOS Grenadiers,125,412,26,CO
+Leo Hayter,1.78,66,London,INEOS Grenadiers,63,648,21,GB
+Kim Heiduk,1.84,70,Herrenberg,INEOS Grenadiers,40.56999993,843,23,DE
+Joshua Tarling,1.94,88,Aberaeron,INEOS Grenadiers,19.56999993,1189,19,GB
+Michael Leonard,1.7,60,Oakville,INEOS Grenadiers,0,,18,CA
+Rui Costa,1.87,75,Póvoa de Varzim,Intermarché - Circus - Wanty,606,76,36,PT
+Rein Taaramäe,1.86,68,Tartu,Intermarché - Circus - Wanty,246,255,35,EE
+Louis Meintjes,1.73,58,Pretoria,Intermarché - Circus - Wanty,899,44,31,ZA
+Baptiste Planckaert,1.77,65,Kortrijk,Intermarché - Circus - Wanty,164,338,34,BE
+Mike Teunissen,1.84,73,Ysselsteyn,Intermarché - Circus - Wanty,303,212,30,NL
+Niccolò Bonifazio,1.76,72,Coni,Intermarché - Circus - Wanty,108,450,29,IT
+Lilian Calmejane,1.84,69,Albi,Intermarché - Circus - Wanty,147,367,30,FR
+Adrien Petit,1.88,80,Arras,Intermarché - Circus - Wanty,228,270,32,FR
+Dion Smith,1.79,67,Taupaki,Intermarché - Circus - Wanty,235,265,30,NZ
+Lorenzo Rota,1.73,62,Bergamo,Intermarché - Circus - Wanty,888,47,27,IT
+Biniam Girmay,1.84,70,Asmara,Intermarché - Circus - Wanty,1105,24,22,ER
+Loïc Vliegen,1.84,70,Rocourt,Intermarché - Circus - Wanty,282,229,29,BE
+Taco Van Der Hoorn,1.87,73,Rotterdam,Intermarché - Circus - Wanty,342,188,29,NL
+Boy Van Poppel,1.86,78,Utrecht,Intermarché - Circus - Wanty,36,895,35,NL
+Erik Bystrøm Sven,1.88,73,Haugesund,Intermarché - Circus - Wanty,220,272,31,NO
+Aimé De Gendt,1.82,75,Denderhoutem,Intermarché - Circus - Wanty,68,625,28,BE
+Georg Zimmermann,1.81,70,Augsburg,Intermarché - Circus - Wanty,372,167,25,DE
+Gerben Thijssen,1.74,74,Genk,Intermarché - Circus - Wanty,526,96,24,BE
+Simone Petilli,1.78,65,Bellano,Intermarché - Circus - Wanty,35,910,29,IT
+Kobe Goossens,1.78,64,Leuven,Intermarché - Circus - Wanty,253,249,26,BE
+Rune Herregodts,1.81,70,Aalst,Intermarché - Circus - Wanty,199,294,24,BE
+Arne Marit,1.85,72,Galmaarden,Intermarché - Circus - Wanty,105,468,24,BE
+Hugo Page,1.85,71,Chartres,Intermarché - Circus - Wanty,423,139,21,FR
+Julius Johansen,1.88,75,Blovstrød,Intermarché - Circus - Wanty,78,584,23,DK
+Madis Mihkels,1.84,75,Tartu,Intermarché - Circus - Wanty,165.67,332,19,EE
+Laurenz Rex,1.93,82,Marbourg,Intermarché - Circus - Wanty,71,612,23,BE
+Tom Paquot,1.84,70,Rocourt,Intermarché - Circus - Wanty,33,938,23,BE
+Dries De Pooter,1.81,66,Geel,Intermarché - Circus - Wanty,10,1539,20,BE
+Primož Roglič,1.77,65,Trbovlje,Jumbo-Visma,1175,21,33,SI
+Robert Gesink,1.89,70,Varsseveld,Jumbo-Visma,90,538,36,NL
+Wout Van Aert,1.9,78,Herentals,Jumbo-Visma,2619,3,28,BE
+Wilco Kelderman,1.85,65,Amersfoort,Jumbo-Visma,436,133,31,NL
+Rohan Dennis,1.82,72,Adelaide,,283,226,32,AU
+Tiesj Benoot,1.9,72,Ghent,Jumbo-Visma,784,54,28,BE
+Steven Kruijswijk,1.78,63,Nuenen,Jumbo-Visma,183,316,35,NL
+Christophe Laporte,1.91,76,La Seyne-sur-Mer,Jumbo-Visma,1307,14,30,FR
+Dylan Van Baarle,1.87,78,Voorburg,Jumbo-Visma,915,41,30,NL
+Jonas Vingegaard,1.75,60,Hillerslev,Jumbo-Visma,2074,4,26,DK
+Jos Van Emden,1.86,78,Schiedam,Jumbo-Visma,85,555,38,NL
+Sam Oomen,1.77,65,Tilburg,Jumbo-Visma,199,292,27,NL
+Sepp Kuss,1.8,61,Durango,Jumbo-Visma,385,157,28,US
+Tosh Van Der Sande,1.78,67,Wijnegem,Jumbo-Visma,85,556,32,BE
+Jan Tratnik,1.73,67,Ljubljana,Jumbo-Visma,358,175,33,SI
+Timo Roosen,1.94,78,Tilburg,Jumbo-Visma,132,395,30,NL
+Olav Kooij,1.84,72,Numansdorp,Jumbo-Visma,1013,33,21,NL
+Attila Valter,1.85,65,Csömör,Jumbo-Visma,371,168,24,HU
+Koen Bouwman,1.78,60,Ulft,Jumbo-Visma,419,140,29,NL
+Tobias Foss,1.84,74,Vingrom,Jumbo-Visma,475,117,25,NO
+Edoardo Affini,1.92,80,Mantua,Jumbo-Visma,159.3299999,350,26,IT
+Nathan Van Hooydonck,1.93,78,Gooreind,Jumbo-Visma,190,305,27,BE
+Lennard Hofstede,1.86,73,Poeldijk,Jumbo-Visma,15,1300,28,NL
+Mick Van Dijke,1.9,74,Colijnsplaat,Jumbo-Visma,193,301,22,NL
+Gijs Leemreize,1.9,74,Ruurlo,Jumbo-Visma,239,263,23,NL
+Thomas Gloag,1.75,60,East Dulwich,Jumbo-Visma,154,360,21,GB
+Tim Van Dijke,1.9,74,Goes,Jumbo-Visma,53,731,22,NL
+Michel Hessmann,1.9,78,Münster,Jumbo-Visma,60.82999998,665,21,DE
+Milan Vader,1.73,63,Middelburg,Jumbo-Visma,18,1221,27,NL
+Joaquín Rojas José,1.77,70,Cieza,Movistar Team,143,374,37,ES
+Enric Mas,1.77,61,Artà,Movistar Team,1226,17,28,ES
+Fernando Gaviria,1.8,71,La Ceja,Movistar Team,518,98,28,CO
+Gorka Izagirre,1.76,66,Ormaiztegi,Movistar Team,201,287,35,ES
+Nelson Oliveira,1.8,67,Anadia,Movistar Team,165,334,34,PT
+Ruben Guerreiro,1.78,65,Montijo,Movistar Team,701,64,28,PT
+Alex Aranburu,1.78,63,Ezkio-Itsaso,Movistar Team,592,80,27,ES
+Imanol Erviti,1.89,82,Pamplona,Movistar Team,40,848,39,ES
+Iván García Cortina,1.83,77,Gijón,Movistar Team,574,83,27,ES
+Ramiro Sosa Iván,1.68,58,Pasca,Movistar Team,412,144,25,CO
+Carlos Verona,1.86,68,San Lorenzo de El Escorial,Movistar Team,409,145,30,ES
+Gregor Mühlberger,1.8,64,Haidershofen,Movistar Team,126,411,28,AT
+Antonio Pedrero,1.77,60,Terrassa,Movistar Team,317,201,31,ES
+Gonzalo Serrano,1.77,65,Madrid,Movistar Team,315,205,28,ES
+Óscar Rodríguez,1.79,63,Burlada,Movistar Team,149,365,27,ES
+Max Kanter,1.76,68,Cottbus,Movistar Team,446,129,25,DE
+Matteo Jorgenson,1.9,65,Walnut Creek,Movistar Team,548,90,23,US
+Lluís Mas,1.81,69,Ses Salines,Movistar Team,64,636,33,ES
+Augusto Rubio Einer,1.64,56,Chíquiza,Movistar Team,416,143,25,CO
+Mathias Norsgaard,2.02,81,Silkeborg,Movistar Team,61,660,25,DK
+Will Barta,1.8,61,Boise,Movistar Team,116,431,27,US
+Jorge Arcas,1.87,68,Sabiñánigo,Movistar Team,80,577,30,ES
+Albert Torres,1.8,70,Ciutadella de Menorca,Movistar Team,45,787,32,ES
+Sergio Samitier,1.81,63,Barbastro,Movistar Team,10,1510,27,ES
+Abner González,1.74,60,Moca,Movistar Team,56,705,22,PR
+Oier Lazkano,1.89,74,Vitoria-Gasteiz,Movistar Team,157,356,23,ES
+Johan Jacobs,1.92,78,Winterthur,Movistar Team,56,703,26,CH
+Juri Hollmann,1.85,70,Berlin,Movistar Team,27,1050,23,DE
+Vinicius Rangel,1.78,64,Cabo Frio,Movistar Team,32,954,21,BR
+Iván Romeo,1.93,75,Valladolid,Movistar Team,16,1285,19,ES
+Julian Alaphilippe,1.73,62,Saint-Amand-Montrond,Soudal - Quick Step,434,135,30,FR
+Remco Evenepoel,1.71,61,Aalst,Soudal - Quick Step,2778.14,2,23,BE
+Yves Lampaert,1.8,75,Izegem,Soudal - Quick Step,387,153,31,BE
+Dries Devenyns,1.77,65,Leuven,Soudal - Quick Step,38,881,39,BE
+Florian Sénéchal,1.79,77,Cambrai,Soudal - Quick Step,364,169,29,FR
+Tim Merlier,1.85,80,Wortegem-Petegem,Soudal - Quick Step,1119.14,22,30,BE
+Fabio Jakobsen,1.81,78,Gorinchem,Soudal - Quick Step,693,65,26,NL
+Kasper Asgreen,1.92,75,Kolding,Soudal - Quick Step,160,349,28,DK
+Michael Mørkøv,1.83,71,Kokkedal,Soudal - Quick Step,131,398,37,DK
+Fausto Masnada,1.82,65,Bergamo,Soudal - Quick Step,64,639,29,IT
+Mattia Cattaneo,1.84,67,Alzano Lombardo,Soudal - Quick Step,98,495,32,IT
+Pieter Serry,1.86,66,Aalter,Soudal - Quick Step,61.13999987,654,34,BE
+Jan Hirt,1.81,62,Třebíč,Soudal - Quick Step,385,156,32,CZ
+Davide Ballerini,1.83,77,Cantù,Soudal - Quick Step,344,185,28,IT
+Rémi Cavagna,1.86,78,Clermont-Ferrand,Soudal - Quick Step,333,193,27,FR
+Josef Černý,1.88,77,Frýdek-Místek,Soudal - Quick Step,165.1399999,333,29,CZ
+Bert Van Lerberghe,1.9,83,Kortrijk,Soudal - Quick Step,135.1399999,388,30,BE
+James Knox,1.73,58,Kendal,Soudal - Quick Step,109,448,27,GB
+Tim Declercq,1.9,78,Leuven,Soudal - Quick Step,38,880,33,BE
+Andrea Bagioli,1.76,60,Sondrio,Soudal - Quick Step,416,142,23,IT
+Mauri Vansevenant,1.75,60,Ostend,Soudal - Quick Step,505,102,23,BE
+Mauro Schmid,1.87,70,Bülach,Soudal - Quick Step,724.8099999,61,23,CH
+Jannik Steimle,1.87,73,Weilheim an der Teck,Soudal - Quick Step,114.83,434,26,DE
+Casper Pedersen,1.86,74,Copenhagen,Soudal - Quick Step,137,384,26,DK
+Louis Vervaeke,1.81,68,Ronse,Soudal - Quick Step,105.1399999,466,29,BE
+Ilan Van Wilder,1.71,64,Jette,Soudal - Quick Step,338,191,22,BE
+Ethan Vernon,1.88,74,Bedford,Soudal - Quick Step,374,165,22,GB
+Stan Van Tricht,1.74,64,Leuven,Soudal - Quick Step,141,377,23,BE
+Martin Svrček,1.75,66,Nesluša,Soudal - Quick Step,7,1742,20,SK
+Nacer Bouhanni,1.75,65,Épinal,Team Arkéa Samsic,298,215,32,FR
+Warren Barguil,1.82,61,Hennebont,Team Arkéa Samsic,641,71,31,FR
+Hugo Hofstetter,1.7,65,Altkirch,Team Arkéa Samsic,808,52,29,FR
+Maxime Bouet,1.84,67,Belley,Team Arkéa Samsic,87,547,36,FR
+Nicolas Edet,1.76,60,La Ferté-Bernard,Team Arkéa Samsic,205,284,35,FR
+Laurent Pichon,1.78,69,Quimper,Team Arkéa Samsic,187,310,36,FR
+Anthony Delaplace,1.81,65,Valognes,Team Arkéa Samsic,190,304,33,FR
+Amaury Capiot,1.87,69,Tongeren,Team Arkéa Samsic,487,111,29,BE
+Daniel Mclay,1.85,72,Wellington,Team Arkéa Samsic,217,275,31,GB
+Luca Mozzato,1.78,67,Arzignano,Team Arkéa Samsic,686,66,25,IT
+Élie Gesbert,1.81,63,Saint-Brieuc,Team Arkéa Samsic,165,335,27,FR
+Clément Champoussin,1.8,61,Nice,Team Arkéa Samsic,243,259,24,FR
+Łukasz Owsian,1.81,66,Toruń,Team Arkéa Samsic,101,481,33,PL
+Jenthe Biermans,1.84,78,Geel,Team Arkéa Samsic,393,150,27,BE
+Matis Louvel,1.87,73,Mont Saint Aignan,Team Arkéa Samsic,497,106,23,FR
+Cristián Rodríguez,1.78,56,El Ejido,Team Arkéa Samsic,156,358,28,ES
+Kévin Vauquelin,1.76,69,Bayeux,Team Arkéa Samsic,633,73,21,FR
+Kévin Ledanois,1.81,67,Noisy-le-Sec,Team Arkéa Samsic,61,656,29,FR
+Clément Russo,1.86,73,Lyon,Team Arkéa Samsic,122,418,28,FR
+Thibault Guernalec,1.85,71,Châteaulin,Team Arkéa Samsic,49,756,25,FR
+Simon Guglielmi,1.8,66,Chambéry,Team Arkéa Samsic,102,477,25,FR
+David Dekker,1.9,80,Turnhout,Team Arkéa Samsic,28,1026,25,NL
+Alan Riou,1.76,68,Lannion,Team Arkéa Samsic,26,1066,25,FR
+Michel Ries,1.84,67,Luxembourg,Team Arkéa Samsic,61,661,24,LU
+Louis Barré,1.84,68,Nantes,Team Arkéa Samsic,108,452,22,FR
+Donavan Grondin,1.83,77,Saint-Pierre,Team Arkéa Samsic,59,685,22,FR
+Alessandro Verre,1.7,59,Marsicovetere,Team Arkéa Samsic,71,613,21,IT
+Mathis Le Berre,1.76,68,Saint-Brieuc,Team Arkéa Samsic,78,585,21,FR
+Andrii Ponomar,1.83,65,Chernihiv,Team Arkéa Samsic,35,916,20,UA
+Ewen Costiou,1.76,64,Brest,Team Arkéa Samsic,51,742,20,FR
+John Degenkolb,1.79,82,Gera,Team DSM,193,298,34,DE
+Romain Bardet,1.84,65,Brioude,Team DSM,953,37,32,FR
+Patrick Bevin,1.8,75,Taupo,Team DSM,292,219,32,NZ
+Alberto Dainese,1.76,70,Abano Terme,Team DSM,454,121,24,IT
+Andreas Leknessund,1.85,72,Tromsø,Team DSM,507,101,23,NO
+Chris Hamilton,1.78,70,Bendigo,Team DSM,115,433,27,AU
+Harm Vanhoucke,1.77,65,Kortrijk,Team DSM,344,186,25,BE
+Romain Combaud,1.75,63,Saint-Doulchard,Team DSM,65,633,31,FR
+Martijn Tusveld,1.87,70,Utrecht,Team DSM,117,427,29,NL
+Alex Edmondson,1.84,75,Miri,Team DSM,70,616,29,AU
+Nils Eekhoff,1.91,75,Rijsenhout,Team DSM,45,795,25,NL
+Sam Welsford,1.82,79,Subiaco,Team DSM,406,146,27,AU
+Marius Mayrhofer,1.82,70,Tübingen,Team DSM,257,247,22,DE
+Kevin Vermaerke,1.79,67,Rancho Santa Margarita,Team DSM,138,383,22,US
+Niklas Märkl,1.85,70,Queidersbach,Team DSM,41,839,24,DE
+Marco Brenner,1.78,59,Augsburg,Team DSM,129,404,20,DE
+Pavel Bittner,1.86,73,Olomouc,Team DSM,99,494,20,CZ
+Florian Stork,1.84,65,Bünde,Team DSM,15,1318,25,DE
+Sean Flynn,1.77,67,Edinburgh,Team DSM,54,726,23,GB
+Leon Heinschke,1.8,70,Frankfurt an der Oder,Team DSM,15,1325,23,DE
+Frederik Rodenberg,1.87,73,Værløse,Team DSM,1,2236,25,DK
+Lund Andresen Tobias,1.81,69,Taastrup,Team DSM,21,1161,20,DK
+Lorenzo Milesi,1.8,70,San Giovanni Bianco,Team DSM,17,1259,20,IT
+Tim Naberman,1.85,70,Genemuiden,Team DSM,10,1516,23,NL
+Michael Matthews,1.78,72,Canberra,Team Jayco AlUla,1218.67,18,32,AU
+Simon Yates,1.72,58,Bury,Team Jayco AlUla,1076,28,30,GB
+Dylan Groenewegen,1.77,70,Amsterdam,Team Jayco AlUla,1059.43,29,29,NL
+Zdeněk Štybar,1.83,68,Planá,Team Jayco AlUla,146,371,37,CZ
+Luka Mezgec,1.83,72,Kranj,Team Jayco AlUla,239.4299999,262,34,SI
+Luke Durbridge,1.87,78,Greenmount,Team Jayco AlUla,87.66999996,546,31,AU
+Alessandro De Marchi,1.81,65,San Daniele del Friuli,Team Jayco AlUla,106,462,36,IT
+Christopher Juul-Jensen,1.83,73,Kilmacanogue,Team Jayco AlUla,60,668,33,DK
+Lucas Hamilton,1.84,71,Ararat,Team Jayco AlUla,200,290,27,AU
+Lawson Craddock,1.78,69,Houston,Team Jayco AlUla,119,424,31,US
+Grøndahl Jansen Amund,1.87,83,Nes,Team Jayco AlUla,35,911,29,NO
+Eddie Dunbar,1.7,57,Banteer,Team Jayco AlUla,269,239,26,IE
+Tsgabu Grmay,1.75,63,Mek'ele,Team Jayco AlUla,54,716,31,ET
+Michael Hepburn,1.86,77,Brisbane,Team Jayco AlUla,76.42999995,587,31,AU
+Lukas Pöstlberger,1.82,70,Vöcklabruck,Team Jayco AlUla,46,778,31,AT
+Chris Harper,1.85,67,Melbourne,Team Jayco AlUla,76,590,28,AU
+Matteo Sobrero,1.77,63,Alba,Team Jayco AlUla,376.3299999,160,25,IT
+Filippo Zana,1.85,65,Thiene,Team Jayco AlUla,287,224,23,IT
+Elmar Reinders,1.91,78,Emmen,Team Jayco AlUla,85.92999996,554,30,NL
+Kevin Colleoni,1.8,66,Ponte San Pietro,Team Jayco AlUla,131,399,23,IT
+Callum Scotson,1.84,77,Campbelltown,Team Jayco AlUla,90.42999995,534,26,AU
+Jan Maas,1.89,70,Bergen op Zoom,Team Jayco AlUla,67.42999995,626,27,NL
+Felix Engelhardt,1.8,68,Ulm,Team Jayco AlUla,121.83,419,22,DE
+Kelland O'Brien,1.92,79,Melbourne,Team Jayco AlUla,99,492,24,AU
+Campbell Stewart,1.81,76,Palmerston North,Team Jayco AlUla,31,962,24,NZ
+Alexandre Balmer,1.92,70,La Chaux-de-Fonds,Team Jayco AlUla,84,564,22,CH
+Blake Quick,1.87,77,Brisbane,Team Jayco AlUla,14.42999995,1361,23,AU
+David Peña Jesús,1.7,55,Zipaquirá,Team Jayco AlUla,5,1881,22,CO
+Bauke Mollema,1.83,64,Groningen,Trek - Segafredo,674.5,68,36,NL
+Tony Gallopin,1.8,69,Dourdan,Trek - Segafredo,167,329,34,FR
+Jasper Stuyven,1.86,78,Leuven,Trek - Segafredo,477,114,30,BE
+Mads Pedersen,1.79,70,Tølløse,Trek - Segafredo,1441,7,27,DK
+Edward Theuns,1.83,72,Gent,Trek - Segafredo,511,100,31,BE
+Dario Cataldo,1.75,64,Lanciano,Trek - Segafredo,55,709,37,IT
+Giulio Ciccone,1.76,58,Chieti,Trek - Segafredo,558,88,28,IT
+Toms Skujiņš,1.78,70,Sigulda,Trek - Segafredo,375,162,31,LV
+Jon Aberasturi,1.73,69,Vitoria-Gasteiz,Trek - Segafredo,109.14,446,33,ES
+Kenny Elissonde,1.69,52,Longjumeau,Trek - Segafredo,156,357,31,FR
+Mattias Skjelmose,1.79,65,Copenhagen,Trek - Segafredo,1033,31,22,DK
+Antwan Tolhoek,1.78,61,Yerseke,Trek - Segafredo,47.14,765,28,NL
+Emīls Liepiņš,1.75,67,Dobele,Trek - Segafredo,155.14,359,30,LV
+Markus Hoelgaard,1.87,74,Stavanger,Trek - Segafredo,28,1016,28,NO
+Amanuel Ghebreigzabhier,1.87,68,Addis Abeba,Trek - Segafredo,12.14,1410,28,ER
+Natnael Tesfatsion,1.75,60,Asmara,Trek - Segafredo,442,130,23,ER
+Alex Kirsch,1.94,78,Luxembourg,Trek - Segafredo,72,605,30,LU
+Jacopo Mosca,1.73,65,Savigliano,Trek - Segafredo,42,822,29,IT
+Julien Bernard,1.76,60,Nevers,Trek - Segafredo,73,600,30,FR
+Quinn Simmons,1.82,72,Durango,Trek - Segafredo,241,261,21,US
+Pedro López Juan,1.7,60,Lebrija,Trek - Segafredo,290,223,25,ES
+Antonio Tiberi,1.82,62,Frosinone,Trek - Segafredo,347.14,182,21,IT
+Filippo Baroncini,1.88,74,Massa Lombarda,Trek - Segafredo,96,507,22,IT
+Otto Vergaerde,1.8,74,Melle,Trek - Segafredo,71,610,28,BE
+Mathias Vacek,1.88,74,Beroun,Trek - Segafredo,177,324,20,CZ
+Daan Hoole,1.98,82,Zuidland,Trek - Segafredo,75.5,593,24,NL
+Thibau Nys,1.76,64,Bonheiden,Trek - Segafredo,84.33000001,559,20,BE
+Asbjørn Hellemose,1.92,65,Galten,Trek - Segafredo,24.14,1094,24,DK
+Marc Brustenga,1.9,78,Santa Eulàlia de Ronçana,Trek - Segafredo,16.14,1269,23,ES
+Diego Ulissi,1.75,63,Cecina,UAE Team Emirates,891,46,33,IT
+Tadej Pogačar,1.76,66,Klanec,UAE Team Emirates,3140,1,24,SI
+Rafał Majka,1.73,62,Zegartowice,UAE Team Emirates,281,230,33,PL
+Adam Yates,1.73,58,Bury,UAE Team Emirates,1110.43,23,30,GB
+Tim Wellens,1.82,71,Sint-Truiden,UAE Team Emirates,436,134,31,BE
+Matteo Trentin,1.79,74,Borgo Valsugana,UAE Team Emirates,590,81,33,IT
+Pascal Ackermann,1.8,78,Kandel,UAE Team Emirates,451,126,29,DE
+George Bennett,1.8,58,Nelson,UAE Team Emirates,391,152,32,NZ
+Davide Formolo,1.81,62,Negrar,UAE Team Emirates,386,155,30,IT
+João Almeida,1.78,63,Caldas da Rainha,UAE Team Emirates,922,40,24,PT
+Marc Soler,1.86,68,Vilanova i la Geltrú,UAE Team Emirates,494.43,109,29,ES
+Marc Hirschi,1.74,61,Bern,UAE Team Emirates,776,55,24,CH
+Felix Großschartner,1.84,64,Wels,UAE Team Emirates,304,209,29,AT
+Jan Polanc,1.72,62,Kranj,UAE Team Emirates,224,271,30,SI
+Brandon Mcnulty,1.83,69,Phoenix,UAE Team Emirates,499.43,105,24,US
+Ryan Gibbons,1.81,70,Johannesburg,UAE Team Emirates,61,658,28,ZA
+José Hodeg Álvaro,1.86,76,Montería,UAE Team Emirates,0,,26,CO
+Sebastián Molano Juan,1.8,72,Paipa,UAE Team Emirates,346.43,183,28,CO
+Stake Laengen Vegard,1.95,79,Fredrikstad,UAE Team Emirates,56.43000001,699,34,NO
+Alessandro Covi,1.8,66,Borgomanero,UAE Team Emirates,266,242,24,IT
+Juan Ayuso,1.83,65,Barcelona,UAE Team Emirates,800,53,20,ES
+Jay Vine,1.84,69,Townsville,UAE Team Emirates,826.43,50,27,AU
+Mikkel Bjerg,1.91,78,Copenhagen,UAE Team Emirates,109.43,445,24,DK
+Rui Oliveira,1.84,69,Vila Nova de Gaia,UAE Team Emirates,173,326,26,PT
+Domen Novak,1.81,70,Dolenja vas,UAE Team Emirates,185,312,27,SI
+Sjoerd Bax,1.85,78,Gorinchem,UAE Team Emirates,267,240,27,NL
+Michael Vink,1.9,73,Christchurch,UAE Team Emirates,10,1481,31,NZ
+Finn Fisher-Black,1.89,73,Benenden,UAE Team Emirates,58,692,21,NZ
+Ivo Oliveira,1.85,68,Vila Nova de Gaia,UAE Team Emirates,64,641,26,PT
+Felix Groß,1.84,71,Feuchtwangen,UAE Team Emirates,42,829,24,DE
+Guillaume Van Keirsbulck,1.91,89,Roeselare,Bingoal WB,39,868,32,BE
+Marco Tizza,1.73,58,Giussano,Bingoal WB,127,407,31,IT
+Kenneth Van Rooy,1.79,70,Turnhout,Bingoal WB,283,227,29,BE
+Floris De Tier,1.72,60,Ghent,Bingoal WB,24,1098,31,BE
+Matteo Malucelli,1.71,68,Forlì,Bingoal WB,70,619,29,IT
+Alexis Guerin,1.76,65,Libourne,Bingoal WB,134,393,30,FR
+Lennert Teugels,1.75,64,Opwijk,Bingoal WB,296.86,217,29,BE
+Dimitri Peyskens,1.82,69,Uccle,Bingoal WB,69,621,31,BE
+Patrick Lauk Karl,1.73,69,Kuressaare,Bingoal WB,136,387,26,EE
+Rémy Mertz,1.75,70,Luxembourg,Bingoal WB,87,549,27,BE
+Ludovic Robeet,1.94,75,Nivelles,Bingoal WB,57,694,28,BE
+Julian Mertens,1.8,67,Turnhout,Bingoal WB,81,576,25,BE
+Alexander Salby,1.76,68,Aabenraa,Bingoal WB,107.17,454,24,DK
+Ceriel Desal,1.87,72,Roeselare,Bingoal WB,49,758,23,BE
+Louis Blouwe,1.82,71,Izegem,Bingoal WB,41,838,23,BE
+Luca Van Boven,1.79,68,Zottegem,Bingoal WB,32,951,23,BE
+Nathan Vandepitte,1.92,80,Tielt,Bingoal WB,1,2266,22,FR
+Dorian De Maeght,1.81,79,Elsene,Bingoal WB,3,2028,25,BE
+Aaron Van Der Beken,1.85,66,Horebeke,Bingoal WB,2,2129,22,BE
+Aaron Gate,1.8,71,Auckland,Bolton Equities Black Spoke,356,177,32,NZ
+James Oram,1.83,68,Palmerston North,Bolton Equities Black Spoke,60,666,29,NZ
+Rory Townsend,1.84,73,Kingston upon Thames,Bolton Equities Black Spoke,38,883,27,IE
+Mark Stewart,1.8,70,Dundee,Bolton Equities Black Spoke,203,286,27,GB
+Luke Mudgway,1.71,65,Palmerston North,Bolton Equities Black Spoke,53,728,26,NZ
+James Fouché,1.86,71,Christchurch,Bolton Equities Black Spoke,139,380,24,NZ
+Ryan Christensen,1.75,63,Hamilton,Bolton Equities Black Spoke,47,773,26,NZ
+Matthew Bostock,1.83,69,Douglas,Bolton Equities Black Spoke,59,682,25,GB
+Tom Sexton,1.83,71,Invercargill,Bolton Equities Black Spoke,91,533,24,NZ
+Jacob Scott,1.82,68,Oldham,Bolton Equities Black Spoke,27,1043,27,GB
+Regan Gough,1.83,71,Waipukurau,Bolton Equities Black Spoke,0,,26,NZ
+Josh Burnett,1.87,73,Invercargill,Bolton Equities Black Spoke,25,1092,22,NZ
+Ollie Jones,1.89,75,Upper Hutt,Bolton Equities Black Spoke,0,,26,NZ
+George Jackson,1.89,74,Wellington,Bolton Equities Black Spoke,0,,23,NZ
+Ethan Batt,1.9,76,Nelson,Bolton Equities Black Spoke,0,,24,NZ
+Daniel Navarro,1.74,60,Salamanca,Burgos-BH,64,637,39,ES
+Ángel Madrazo,1.71,61,Santander,Burgos-BH,8,1602,34,ES
+Jetse Bol,1.84,71,Avenhorn,Burgos-BH,44,808,33,NL
+Cyril Barthe,1.84,70,Sauveterre-de-Béarn,Burgos-BH,135,391,27,FR
+Manuel Díaz José,1.77,64,Jaén,Burgos-BH,69,622,28,ES
+Jesús Ezquerra,1.85,68,Adal-Treto,Burgos-BH,60,667,32,ES
+Manuel Peñalver,1.77,67,Torrevieja,Burgos-BH,21,1154,24,ES
+Ander Okamika,1.9,70,Lekeitio,Burgos-BH,61,663,29,ES
+Antonio Angulo,1.75,67,El Llano Udías,Burgos-BH,26,1063,31,ES
+Pelayo Sánchez,1.77,62,Tellego,Burgos-BH,74,599,22,ES
+Victor Langellotti,1.77,64,Monaco,Burgos-BH,93,513,27,MC
+Óscar Pelegrí,1.75,63,Castellón de la Plana,Burgos-BH,5,1854,28,ES
+Camilo Ardila Andrés,1.7,59,Mariquita,Burgos-BH,8,1630,23,CO
+Ángel Fuentes,1.9,77,Burgos,Burgos-BH,31,960,26,ES
+Ángel Fernández Miguel,1.85,79,Santander,Burgos-BH,35,913,25,ES
+Mario Aparicio,1.85,69,Aranda de Duero,Burgos-BH,28,1031,22,ES
+Clément Alleno,1.8,69,Saint-Brieuc,Burgos-BH,34,930,22,FR
+Alejandro Franco,1.75,58,Valladolid,Burgos-BH,10,1547,21,ES
+Felipe Orts,1.79,70,Villajoyosa,Burgos-BH,5,1848,27,ES
+Rodrigo Alvarez,1.75,65,Burgos,Burgos-BH,0,,23,ES
+Eduard Prades,1.78,63,Alcanar,Caja Rural - Seguros RGA,127,408,35,ES
+Fernando Barceló,1.74,64,Huesca,Caja Rural - Seguros RGA,188,309,27,ES
+Orluis Aular,1.76,65,Nirgua,Caja Rural - Seguros RGA,157,355,26,VE
+Michal Schlegel,1.84,72,Ústí nad Orlicí,Caja Rural - Seguros RGA,17,1238,27,CZ
+Julen Amezqueta,1.74,63,Estella,Caja Rural - Seguros RGA,5,1839,29,ES
+Alveiro Cepeda Jefferson,1.7,61,Quito,Caja Rural - Seguros RGA,60,672,27,EC
+Jhojan García,1.68,55,Bogotá,Caja Rural - Seguros RGA,5,1862,25,CO
+Joel Nicolau,1.76,66,Llofriu,Caja Rural - Seguros RGA,123,417,25,ES
+Tomáš Bárta,1.89,79,Olomouc,Caja Rural - Seguros RGA,72,608,23,CZ
+Daniel Babor,1.79,79,Beroun,Caja Rural - Seguros RGA,91,531,23,CZ
+Kinfe Hailemichael Mulu,1.58,50,Adigrat,Caja Rural - Seguros RGA,0,,23,ET
+David González,1.79,68,Fontiveros,Caja Rural - Seguros RGA,25,1087,27,ES
+Roman Martín Sergio,1.82,69,Galapagar,Caja Rural - Seguros RGA,36,898,26,ES
+Jokin Murguialday,1.73,57,Salvatierra,Caja Rural - Seguros RGA,17,1255,22,ES
+Iúri Leitão,1.75,65,Viana do Castelo,Caja Rural - Seguros RGA,22,1135,24,PT
+Jon Barrenetxea,1.88,74,Gámiz,Caja Rural - Seguros RGA,23,1118,22,ES
+Abel Balderstone,1.79,61,Ullastrell,Caja Rural - Seguros RGA,19,1200,22,ES
+Albeiro Pira Yesid,1.72,59,Siachoque,Caja Rural - Seguros RGA,4,1989,23,CO
+Calum Johnston,1.73,55,Glasgow,Caja Rural - Seguros RGA,12,1431,24,GB
+Joseba López,1.81,66,Vitoria,Caja Rural - Seguros RGA,0,,23,ES
+Josu Etxeberria,1.78,65,Iturmendi,Caja Rural - Seguros RGA,0,,22,ES
+Vincenzo Albanese,1.75,70,Oliveto Citra,EOLO-Kometa,439,131,26,IT
+Francesco Gavazzi,1.71,65,Morbegno,,70,617,38,IT
+Lorenzo Fortunato,1.7,57,Bologna,EOLO-Kometa,307,207,26,IT
+Giovanni Lonardi,1.8,70,Verona,EOLO-Kometa,28,1023,26,IT
+Mirco Maestri,1.82,73,Guastalla,EOLO-Kometa,64,638,31,IT
+Mattia Bais,1.75,66,Rovereto,EOLO-Kometa,45,794,26,IT
+Andrea Garosio,1.75,58,Brescia,EOLO-Kometa,42.40000001,820,29,IT
+Erik Fetter,1.9,70,Budapest,EOLO-Kometa,127,410,22,HU
+Davide Bais,1.85,66,Rovereto,EOLO-Kometa,100,486,24,IT
+Samuele Rivi,1.87,72,Trente,EOLO-Kometa,30,985,24,IT
+Alessandro Fancellu,1.72,62,Como,EOLO-Kometa,31,963,22,IT
+Simone Bevilacqua,1.8,75,Thiene,EOLO-Kometa,0,,26,IT
+Pablo Sevilla Diego,1.71,64,San Martín de la Vega,EOLO-Kometa,18,1216,27,ES
+Davide Piganzoli,1.74,61,Morbegno,EOLO-Kometa,26,1070,20,IT
+Alex Martín,1.74,60,Premiá de Mar,EOLO-Kometa,5,1875,23,ES
+David Martin,1.77,68,Sevilla,EOLO-Kometa,8,1626,24,ES
+Giovanni Carboni,1.8,61,Fano,Equipo Kern Pharma,34,925,27,IT
+Roger Adrià,1.79,64,Barcelona,Equipo Kern Pharma,185,314,24,ES
+Héctor Carretero,1.83,67,Madrigueras,Equipo Kern Pharma,5,1846,27,ES
+Francisco Galván,1.76,71,Lliçà d'Amunt,Equipo Kern Pharma,101,485,25,ES
+Urko Berrade,1.84,68,Pamplona,Equipo Kern Pharma,40,861,25,ES
+Félix Parra José,1.71,57,Ossa de Montiel,Equipo Kern Pharma,51,740,26,ES
+Vojtěch Řepa,1.84,71,Velká Bíteš,Equipo Kern Pharma,109,449,22,CZ
+Martí Márquez,1.84,63,Llinars del Vallès,Equipo Kern Pharma,0,,27,ES
+Raúl García Pierna,1.75,67,Tres Cantos,Equipo Kern Pharma,71,614,22,ES
+Igor Arrieta,1.82,64,Uharte Arakil,Equipo Kern Pharma,52,736,20,ES
+Iñigo Elosegui,1.88,64,Zierbena,Equipo Kern Pharma,32,946,25,ES
+Jordi López,1.7,59,Badalona,Equipo Kern Pharma,7,1722,24,ES
+Álex Jaime,1.83,68,Sarrià de Ter,Equipo Kern Pharma,13,1398,24,ES
+Jon Agirre,1.73,54,Zumaia,Equipo Kern Pharma,19,1199,25,ES
+Pau Miquel,1.8,60,Sant Quirze del Vallès,Equipo Kern Pharma,42,831,22,ES
+Carlos García Pierna,1.71,54,Tres Cantos,Equipo Kern Pharma,19,1194,23,ES
+Ibon Ruiz,1.78,63,Vitoria,Equipo Kern Pharma,16,1282,24,ES
+Iván Cobo,1.86,63,El Astillero,Equipo Kern Pharma,10,1525,23,ES
+Danny Van Der Tuuk,1.8,60,Assen,Equipo Kern Pharma,5,1856,23,NL
+Eugenio Sánchez,1.79,60,Calpe,Equipo Kern Pharma,5,1878,23,ES
+Mikel Retegi,1.77,64,Barañain,Equipo Kern Pharma,0,,21,ES
+Pablo Castrillo,1.83,63,Jaca,Equipo Kern Pharma,0,,22,ES
+José Lobato Juan,1.73,64,Trebujena,Euskaltel - Euskadi,22,1124,34,ES
+Ángel Maté Luis,1.78,68,Madrid,Euskaltel - Euskadi,28,1018,38,ES
+Mikel Bizkarra,1.65,53,Mañaria,Euskaltel - Euskadi,175,325,33,ES
+Mikel Iturria,1.85,69,Urnieta,Euskaltel - Euskadi,27,1044,30,ES
+Jesús Soto Antonio,1.75,66,Alcantarilla,Euskaltel - Euskadi,87,550,28,ES
+Carlos Canal,1.79,70,Xinzo de Limia,Euskaltel - Euskadi,132,396,21,ES
+Andoni López De Abetxuko,1.85,74,Salvatierra,Euskaltel - Euskadi,7,1719,23,ES
+Henok Mulubrhan,1.76,60,Asmara,Green Project-Bardiani CSF-Faizanè,297,216,23,ER
+Davide Gabburo,1.72,63,Bovolone,Green Project-Bardiani CSF-Faizanè,193,299,29,IT
+Alessandro Tonelli,1.76,64,Brescia,Green Project-Bardiani CSF-Faizanè,135,389,30,IT
+Luca Covili,1.8,58,Pavullo nel Frignano,Green Project-Bardiani CSF-Faizanè,145,373,26,IT
+Samuele Zoccarato,1.83,74,Camposampiero,Green Project-Bardiani CSF-Faizanè,49,757,25,IT
+Riccardo Lucca,1.84,74,Rovereto,Green Project-Bardiani CSF-Faizanè,54,722,26,IT
+Martin Marcellusi,1.72,62,Roma,Green Project-Bardiani CSF-Faizanè,55,711,22,IT
+Enrico Zanoncello,1.7,64,Isola della Scala,Green Project-Bardiani CSF-Faizanè,11,1453,25,IT
+Mattia Petrucci,1.7,56,Verona,Green Project-Bardiani CSF-Faizanè,6,1791,22,IT
+Omar El Gouzi,1.81,58,Peschiera del Garda,Green Project-Bardiani CSF-Faizanè,10,1518,23,IT
+Jared Scott,1.83,66,Boulder,Green Project-Bardiani CSF-Faizanè,7,1733,20,US
+August Jensen,1.76,67,Bodø,Human Powered Health,5,1832,31,NO
+Stanisław Aniołkowski,1.81,68,Warsaw,Human Powered Health,200,291,26,PL
+Gijs Van Hoecke,1.86,78,Gent,Human Powered Health,20,1170,31,BE
+Alan Banaszek,1.81,75,Warsaw,Human Powered Health,256.4299999,248,25,PL
+Benjamin Perry,1.81,71,St. Catharines,Human Powered Health,120,422,28,CA
+Sebastian Schönberger,1.82,64,Linz,Human Powered Health,117,428,28,AT
+Sasha Weemaes,1.77,73,Sint-Niklaas,Human Powered Health,163,343,25,BE
+Barnabás Peák,1.83,74,Budapest,Human Powered Health,167,330,24,HU
+Kristian Aasvold,1.73,61,Snåsa,Human Powered Health,15,1302,27,NO
+Paul Double,1.71,56,Winchester,Human Powered Health,169,328,26,GB
+Matthew Gibson,1.83,76,Warrington,Human Powered Health,8,1610,26,GB
+Gage Hecht,1.8,72,New Orleans,Human Powered Health,0,,25,US
+Wessel Krul,1.83,75,Enkhuizen,Human Powered Health,0,,23,NL
+Charles-Étienne Chrétien,1.77,65,Amos,Human Powered Health,2,2123,23,CA
+Cory Greenberg,1.77,72,Simi Valley,Human Powered Health,0,,35,US
+Chris Froome,1.86,68,Nairobi,Israel - Premier Tech,92,523,37,GB
+Jakob Fuglsang,1.81,65,Geneva,Israel - Premier Tech,397,148,37,DK
+Giacomo Nizzolo,1.84,72,Milan,Israel - Premier Tech,450,128,34,IT
+Sep Vanmarcke,1.89,77,Kortrijk,Israel - Premier Tech,292,220,34,BE
+Ben Hermans,1.86,72,Hasselt,Israel - Premier Tech,0,,36,BE
+Michael Woods,1.75,64,Toronto,Israel - Premier Tech,451,127,36,CA
+Daryl Impey,1.83,70,Johannesburg,,199,293,38,ZA
+Dylan Teuns,1.81,64,Diest,Israel - Premier Tech,948,39,31,BE
+Simon Clarke,1.75,63,Melbourne,Israel - Premier Tech,453,122,36,AU
+Tom Van Asbroeck,1.82,72,Aalst,Israel - Premier Tech,124,415,32,BE
+Hugo Houle,1.82,72,Sainte-Perpétue,Israel - Premier Tech,531,94,32,CA
+Guillaume Boivin,1.8,78,Montreal,Israel - Premier Tech,166,331,33,CA
+Krists Neilands,1.89,69,Ventspils,Israel - Premier Tech,198,295,28,LV
+Rick Zabel,1.84,77,Unna,Israel - Premier Tech,75,594,29,DE
+Reto Hollenstein,1.97,80,Frauenfeld,Israel - Premier Tech,50,746,37,CH
+Nick Schultz,1.8,68,Brisbane,Israel - Premier Tech,326,197,28,AU
+Mads Würtz Schmidt,1.76,70,Randers,Israel - Premier Tech,55,706,28,DK
+Corbin Strong,1.71,63,Invercargill,Israel - Premier Tech,453,125,22,NZ
+Itamar Einhorn,1.72,72,Modi'in,Israel - Premier Tech,193,300,25,IL
+Omer Goldstein,1.74,61,Misgav,Israel - Premier Tech,152,362,26,IL
+Stephen Williams,1.83,59,Aberystwyth,Israel - Premier Tech,79,581,26,GB
+Sebastian Berwick,1.75,59,Brisbane,Israel - Premier Tech,102,478,23,AU
+Jens Reynders,1.84,76,Tongeren,Israel - Premier Tech,60,675,24,BE
+Guy Sagiv,1.8,68,Namur,Israel - Premier Tech,15,1303,28,IL
+Matthew Riccitello,1.72,55,Tucson,Israel - Premier Tech,105,469,21,US
+Taj Jones,1.88,72,Nambour,Israel - Premier Tech,25,1089,22,AU
+Derek Gee,1.89,76,Ottawa,Israel - Premier Tech,56,704,25,CA
+Marco Frigo,1.88,65,Bassano del Grappa,Israel - Premier Tech,39,870,23,IT
+Mason Hollyman,1.74,59,Huddersfield,Israel - Premier Tech,18,1227,22,GB
+Caleb Ewan,1.67,69,Sydney,Lotto Dstny,733,57,28,AU
+Thomas De Gendt,1.79,73,Sint-Niklaas,Lotto Dstny,135,390,36,BE
+Victor Campenaerts,1.73,68,Hoboken,Lotto Dstny,363,170,31,BE
+Jasper De Buyst,1.79,74,Asse,Lotto Dstny,201,288,29,BE
+Eduardo Sepúlveda,1.73,59,Rawson,Lotto Dstny,233,266,31,AR
+Arnaud De Lie,1.82,78,Libramont,Lotto Dstny,1580,6,20,BE
+Jacopo Guarnieri,1.9,80,Vizzolo Predabissi,Lotto Dstny,49,751,35,IT
+Rüdiger Selig,1.88,80,Zwenkau,Lotto Dstny,72,606,34,DE
+Andreas Kron,1.77,63,Albertslund,Lotto Dstny,453,123,24,DK
+Milan Menten,1.74,68,Bilzen,Lotto Dstny,351,179,26,BE
+Pascal Eenkhoorn,1.85,70,Genemuiden,Lotto Dstny,153,361,26,NL
+Florian Vermeersch,1.93,85,Ghent,Lotto Dstny,271,236,23,BE
+Michael Schwarzmann,1.74,69,Kempten,Lotto Dstny,39,869,32,DE
+Maxim Van Gils,1.74,63,Brasschaat,Lotto Dstny,321,200,23,BE
+Brent Van Moer,1.91,79,Beveren,Lotto Dstny,120,423,25,BE
+Arjen Livyns,1.7,58,Waregem,Lotto Dstny,90,539,28,BE
+Sylvain Moniquet,1.75,61,Namur,Lotto Dstny,304,210,25,BE
+Frederik Frison,1.94,84,Geel,Lotto Dstny,55,708,30,BE
+Cedric Beullens,1.9,79,Onze-Lieve-Vrouw-Waver,Lotto Dstny,163,342,26,BE
+Harry Sweeny,1.86,75,Warwick,Lotto Dstny,78,583,24,AU
+Mathijs Paasschens,1.88,75,Rotterdam,Lotto Dstny,116,432,26,NL
+Lennert Van Eetvelt,1.75,63,Tienen,Lotto Dstny,206.33,282,21,BE
+Sébastien Grignard,1.79,68,Mons,Lotto Dstny,40,860,23,BE
+Jarrad Drizners,1.86,70,Adelaide,Lotto Dstny,20,1175,23,AU
+Johannes Adamietz,1.74,61,Ulm,Lotto Dstny,25,1081,24,DE
+Liam Slock,1.88,78,Ghent,Lotto Dstny,5,1864,22,BE
+Valerio Conti,1.72,61,Rome,Team Corratec,15,1291,29,IT
+Nicolás Tivani German,1.76,67,Pocito,Team Corratec,104,471,27,AR
+Etienne Van Empel,1.86,64,Tricht,Team Corratec,6,1778,28,NL
+Attilio Viviani,1.74,69,Vallese,Team Corratec,28,1019,26,IT
+Alexander Konychev,1.85,76,Verona,Team Corratec,30,984,24,IT
+Veljko Stojnić,1.87,73,Sombor,Team Corratec,24,1102,24,RS
+Stefano Gandin,1.85,69,Vittorio Veneto,Team Corratec,30,979,26,IT
+Samuele Zambelli,1.8,70,Rovereto,Team Corratec,1,2252,24,IT
+Antonio Barać,1.9,73,Livno,Team Corratec,25,1080,26,HR
+Alessandro Iacchi,1.7,59,Borgo San Lorenzo,Team Corratec,45,799,23,IT
+Charlie Quarterman,1.8,75,Oxford,Team Corratec,6,1785,24,GB
+Lorenzo Quartucci,1.7,64,Sansepolcro,Team Corratec,10,1520,23,IT
+Karel Vacek,1.78,60,Prague,Team Corratec,6,1790,22,CZ
+Simone Olivero,1.7,62,Savigliano,Team Corratec,0,,21,IT
+Péter Kusztor,1.79,61,Budapest,Team Novo Nordisk,21,1147,38,HU
+Andrea Peron,1.78,70,Borgoricco,Team Novo Nordisk,40,846,34,IT
+David Lozano,1.78,63,Terrassa,Team Novo Nordisk,30,970,34,ES
+Charles Planet,1.79,71,Remiremont,Team Novo Nordisk,1,2232,29,FR
+Joonas Henttala,1.87,73,Porvoo,Team Novo Nordisk,0,,31,FI
+Sam Brand,1.85,76,Peel,Team Novo Nordisk,0,,32,GB
+Stephen Clancy,1.71,63,Limerick,Team Novo Nordisk,0,,30,IE
+Declan Irvine,1.78,75,Newcastle,Team Novo Nordisk,0,,23,AU
+Hamish Beadle,1.67,64,Te Anau,Team Novo Nordisk,0,,24,NZ
+Peter Sagan,1.82,78,Žilina,TotalEnergies,475,116,33,SK
+Edvald Boasson Hagen,1.85,75,Rudsbygd,TotalEnergies,317,202,35,NO
+Julien Simon,1.76,65,Rennes,TotalEnergies,633,72,37,FR
+Pierre Latour,1.8,66,Romans-sur-Isère,TotalEnergies,424,138,29,FR
+Alexis Vuillermoz,1.73,60,Saint-Claude,TotalEnergies,355,178,34,FR
+Daniel Oss,1.91,75,Trento,TotalEnergies,47,770,36,IT
+Anthony Turgis,1.78,70,Bourg-la-Reine,TotalEnergies,478,112,28,FR
+Maciej Bodnar,1.86,77,Oława,TotalEnergies,81,575,37,PL
+Víctor De La Parte,1.81,64,Vitoria-Gasteiz,TotalEnergies,82,569,36,ES
+Lorrenzo Manzin,1.75,69,Saint-Denis,TotalEnergies,277,231,28,FR
+Dries Van Gestel,1.87,71,Turnhout,TotalEnergies,545,91,28,BE
+Geoffrey Soupe,1.77,70,Viriat,TotalEnergies,163,340,34,FR
+Steff Cras,1.83,65,Geel,TotalEnergies,292,221,27,BE
+Mathieu Burgaudeau,1.68,61,Noirmoutier-en-l'Île,TotalEnergies,330,195,24,FR
+Jason Tesson,1.66,59,Angers,TotalEnergies,343,187,25,FR
+Valentin Ferron,1.74,67,Vienne,TotalEnergies,304,211,25,FR
+Fabien Doubey,1.74,62,Viriat,TotalEnergies,93,516,29,FR
+Fabien Grellier,1.75,65,La Roche-sur-Yon,TotalEnergies,47,771,28,FR
+Paul Ourselin,1.85,70,Saint-Pierre-sur-Dives,TotalEnergies,94,511,28,FR
+Jérémy Cabot,1.92,76,Troyes,TotalEnergies,10,1492,31,FR
+Sébastien Reichenbach,1.78,64,Martigny,Tudor Pro Cycling Team,309,206,33,CH
+Alexander Kamp,1.86,74,Copenhagen,Tudor Pro Cycling Team,252,251,29,DK
+Arvid De Kleijn,1.71,68,Herveld,Tudor Pro Cycling Team,147,368,28,NL
+Tom Bohli,1.83,71,Uznach,Tudor Pro Cycling Team,63,644,29,CH
+Simon Pellaud,1.79,70,Martigny,Tudor Pro Cycling Team,35,907,30,CH
+Roland Thalmann,1.78,61,Romoos,Tudor Pro Cycling Team,74,597,29,CH
+Lucas Eriksson,1.79,64,Gånghester,Tudor Pro Cycling Team,103.33,473,26,SE
+Joel Suter,1.9,75,Frutigen,Tudor Pro Cycling Team,73,601,24,CH
+Robin Froidevaux,1.82,71,Morges,Tudor Pro Cycling Team,49.33000001,750,24,CH
+Mika Heming,1.83,68,Ahaus,Tudor Pro Cycling Team,93,520,22,DE
+Rick Pluimers,1.79,67,Enter,Tudor Pro Cycling Team,35,915,22,NL
+Maikel Zijlaard,1.87,73,Rotterdam,Tudor Pro Cycling Team,79.67000002,580,23,NL
+Aloïs Charrin,1.79,67,Lyon,Tudor Pro Cycling Team,7,1711,22,FR
+Alexander Kristoff,1.81,78,Stavanger,Uno-X Pro Cycling Team,1376,9,35,NO
+Kristoffer Halvorsen,1.79,69,Kristiansand,Uno-X Pro Cycling Team,84,562,26,NO
+Rasmus Tiller,1.87,84,Trondheim,Uno-X Pro Cycling Team,272,234,26,NO
+Norman Leth Lasse,1.8,75,Odense,Uno-X Pro Cycling Team,69,620,31,DK
+Niklas Eg,1.83,60,Kibæk,Uno-X Pro Cycling Team,106,463,28,DK
+Halland Johannessen Tobias,1.76,62,Drøbak,Uno-X Pro Cycling Team,376,161,23,NO
+Jonas Gregaard,1.86,66,Herlev,Uno-X Pro Cycling Team,181,319,26,DK
+Anthon Charmig,1.82,66,Aarhus,Uno-X Pro Cycling Team,231,267,24,DK
+Niklas Larsen,1.8,74,Slagelse,Uno-X Pro Cycling Team,5,1844,25,DK
+Erlend Blikra,1.83,75,Stavanger,Uno-X Pro Cycling Team,111,440,26,NO
+Jacob Hindsgaul,1.87,67,Middelfart,Uno-X Pro Cycling Team,34,929,22,DK
+Jonas Abrahamsen,1.83,78,Skien,Uno-X Pro Cycling Team,18,1212,27,NO
+Stian Fredheim,1.83,72,Kristiansand,Uno-X Pro Cycling Team,40.17,845,19,NO
+Marcus Sander Hansen,1.82,68,Greve Strand,Uno-X Pro Cycling Team,7,1676,22,DK
+Sindre Kulset,1.8,68,Oslo,Uno-X Pro Cycling Team,0,,24,NO
+Magnus Kulset,1.74,58,Oslo,Uno-X Pro Cycling Team,0,,22,NO
